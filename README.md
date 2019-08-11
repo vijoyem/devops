@@ -1,2 +1,2 @@
 # git test
-echo "Welcome to Jenkins job"
+echo "Welcome to Jenkins job test"
